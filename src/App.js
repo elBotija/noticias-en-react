@@ -41,6 +41,7 @@ class App extends Component {
                         noticias={this.state.noticias}
                     />
                 </div>
+                <p className='center'><i>Powered by <a href='https://newsapi.org/'>NewsAPI.org</a></i></p>
             </div>
         );
     }
