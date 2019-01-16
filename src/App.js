@@ -31,7 +31,7 @@ class App extends Component {
         return (
             <div className="contenedor-app">
                 <Header
-                    title='Noticias'
+                    title='Noticias de Argentina'
                 />
                 <div className="container white contenedor-noticias">
                     <Formulario
